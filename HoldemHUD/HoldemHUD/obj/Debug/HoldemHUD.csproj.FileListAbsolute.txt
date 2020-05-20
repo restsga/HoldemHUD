@@ -1,0 +1,10 @@
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\bin\Debug\HoldemHUD.exe.config
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\bin\Debug\HoldemHUD.exe
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\bin\Debug\HoldemHUD.pdb
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\obj\Debug\HoldemHUD.csprojAssemblyReference.cache
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\obj\Debug\HoldemHUD.Form1.resources
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\obj\Debug\HoldemHUD.Properties.Resources.resources
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\obj\Debug\HoldemHUD.csproj.GenerateResource.cache
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\obj\Debug\HoldemHUD.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\obj\Debug\HoldemHUD.exe
+C:\Users\matsu\Documents\hobby\programing\GithubClones\C#\HoldemHUD\HoldemHUD\HoldemHUD\obj\Debug\HoldemHUD.pdb
