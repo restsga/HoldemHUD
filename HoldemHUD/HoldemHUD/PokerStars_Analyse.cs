@@ -40,7 +40,7 @@ namespace HoldemHUD
                     }
                     else
                     {
-                        return;
+
                     }
 
                     //No Limit Holdem

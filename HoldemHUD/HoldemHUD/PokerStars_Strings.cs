@@ -28,7 +28,7 @@ namespace HoldemHUD
         public const string SeatHeader = "Seat ";
         public const string SeatFooter = ": ";
         //プレイヤー名
-        public static readonly Regex NameFooter = new Regex(@" \([0-9]+ in chips\)",RegexOptions.Compiled);
+        public static readonly Regex NameFooter = new Regex(@" \(\$?[0-9]+(.[0-9]*)? in chips\)",RegexOptions.Compiled);
 
         //ホールカード
         public const string HoleCards = "*** HOLE CARDS ***";
